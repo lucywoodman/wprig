@@ -1,1 +1,7 @@
-{}
+{
+    "theme": {
+        "slug": "lemon",
+        "name": "Lemon",
+        "author": "Lucy Woodman",
+    },
+}
